@@ -9,7 +9,7 @@ MNIST数据集卷积神经网络实现手写数字识别（GUI）
 * 图片是MOOC上《人工智能实践：Tensorflow笔记》北大曹健老师https://www.icourse163.org/course/PKU-1002536002?tid=1452937471 课程中演示的那10张图片。
 ### 项目说明
 * CNN-Model.py为卷积神经网络的训练文件。
-* tk_gui.py为图像化界面的启动文件
+* gui.py为图像化界面的启动文件
 * checkpoin和weights.txt均为卷积神经网络的训练参数。
 * recongnition.py和icon.ico不要修改。
 ### 执行步骤
