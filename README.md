@@ -13,5 +13,5 @@ MNIST数据集卷积神经网络实现手写数字识别应用（GUI）
 * checkpoin和weights.txt均为卷积神经网络的训练参数。
 * recongnition.py和icon.ico不要修改。
 ### 执行步骤
-* 训练好的checkpoint和weights.txt文件已经在仓库里面了，如果想自己训练可以直接run CNN-Model.py即可，跑完也会生成checkpoint和weights.txt文件。
+* 训练好的checkpoint和weights.txt文件已经在仓库里面了，如果想自己训练可以直接run CNN-Model.py即可，run完也会生成checkpoint和weights.txt文件。
 * 直接执行tk_gui.py文件，出现gui窗口，选择图片识别即可。
