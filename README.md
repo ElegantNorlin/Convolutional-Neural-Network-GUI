@@ -1,7 +1,7 @@
 # convolutional-neural-network-GUI
 MNIST数据集卷积神经网络实现手写数字识别应用（GUI）
 
-### 项目版本信息
+### 环境信息
 * tensorflow版本为2.0.0，2.0.0以后的应该都可以运行
 * 我的python版本为3.7（兼容tensorflow2.0及以上版本的Python版本应该都可以）
 * Operation System:Windows10
