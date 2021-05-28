@@ -1,4 +1,4 @@
-# convolutional-neural-network-GUI
+# Convolutional-neural-network-GUI
 MNIST数据集卷积神经网络实现手写数字识别应用（GUI）
 
 ### 环境信息
