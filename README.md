@@ -1,5 +1,6 @@
 # Convolutional-neural-network-GUI
 MNIST数据集卷积神经网络实现手写数字识别应用（GUI）
+代码中GUI实现的并不美观，只是实现出来GUI需求，大家有需要的可以调整一下布局让GUI更加美观。
 
 ### 环境信息
 * tensorflow版本为2.0.0，2.0.0以后的应该都可以运行
