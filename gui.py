@@ -6,7 +6,7 @@ import cv2
 from PIL import Image, ImageTk
 import numpy as np
 import tensorflow as tf
-import recogniition
+import recognition
 
 a = [""]
 root = Tk()
