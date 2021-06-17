@@ -60,7 +60,7 @@ def choose_file():
     print(selectFileName)
     e.set(selectFileName)
     image_path = selectFileName
-    a = recogniition.fun(image_path)
+    a = recognition.fun(image_path)
     showImg(e_entry.get())
     v2.set(a[0])
     print("识别结果是：%d" % a[0])
