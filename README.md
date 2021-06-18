@@ -1,5 +1,7 @@
 # Convolutional-neural-network-GUI
 MNIST数据集卷积神经网络实现手写数字识别应用（GUI）
+
+### 项目的一些必要说明
 代码中GUI实现的并不美观，只是实现出来GUI需求，大家有需要的可以调整一下布局让GUI更加美观。
 
 谢谢B站的朋友们指正代码错误之处！
